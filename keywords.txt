@@ -1,9 +1,1 @@
-Bonezegei_ILI9341 KEYWORD1
-drawFilledRectangle KEYWORD2
-drawRectangle KEYWORD2
-drawRectangleStrip KEYWORD2
-drawCircle KEYWORD2
-drawBitmap KEYWORD2
-drawRoundFilledRectangle KEYWORD2
-setFont KEYWORD2
-setRotation KEYWORD2
+Bonezegei_List KEYWORD1
